@@ -1,5 +1,5 @@
 # FIT3077 Application
-By Yet Khai Bryan Wong (28762797)
+By Yet Khai Bryan Wong
 
 ## Background
 This application helps practitioners monitor the total cholesterol levels and blood pressure levels (systolic and diastolic) of their patients. 
