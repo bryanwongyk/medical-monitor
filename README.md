@@ -5,9 +5,14 @@ By Yet Khai Bryan Wong
 This application helps practitioners monitor the total cholesterol levels and blood pressure levels (systolic and diastolic) of their patients. 
 
 ## Technologies
-- IDE: Netbeans
+- Built in Netbeans IDE.
 - Java Project (Maven)
 - Dependencies: gson-2.8.6.jar, okhttp-2.7.5.jar, okio-1.6.0.jar
+- HTTP requests made to a FHIR (Fast Healthcare Interoperability Resources) standard API.
+- GUI built with Java's Swing toolkit.
+
+## Design
+Refer to class diagrams and design rationale within 'Design Documents' folder for further explanation on software engineering design principles and patterns, as well as refactoring methods used. 
 
 ## How to run
 To run the program, run within IDE from the Driver class.
